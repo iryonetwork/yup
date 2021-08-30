@@ -76,5 +76,4 @@ $RECYCLE.BIN/
 *.msp
 
 # Ignore build files
-lib/
 .idea
